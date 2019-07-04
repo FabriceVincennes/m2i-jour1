@@ -1,5 +1,5 @@
 # m2i-jour1
 
-# Une nouvelle ligne
+# Une nouvelle ligne conflit serveur
 
 Encore une ligne
